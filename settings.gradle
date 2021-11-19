@@ -1,0 +1,3 @@
+rootProject.name = 'gradleTest'
+includeBuild 'project1'
+
